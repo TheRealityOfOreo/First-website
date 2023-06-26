@@ -1,2 +1,2 @@
 # First-website
-Website for MC sever
+Website for MC server
